@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498742041183",
+    "firebase_url": "https://backdropsapp-d2869.firebaseio.com",
+    "project_id": "backdropsapp-d2869",
+    "storage_bucket": "backdropsapp-d2869.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498742041183:android:dbeaed1cbd63e159b899ea",
+        "android_client_info": {
+          "package_name": "com.example.android.backdropsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498742041183-9ophnea3483vaoi3s8b6ov1reonc6khq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.backdropsapp",
+            "certificate_hash": "84d7e19e2bd7948ca158570964793e41c070eea1"
+          }
+        },
+        {
+          "client_id": "498742041183-50d66dqdvhqlb969ug8cjomegj4u4lfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS5-MrI59UrEBB1qsMG6ta7amePiTb3LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498742041183-50d66dqdvhqlb969ug8cjomegj4u4lfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
